@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           jetty-build-support
 Version:        1.1
-Release:        8.0%{?dist}
+Release:        8.1
 Summary:        Jetty build support files
 
 
@@ -23,7 +23,7 @@ BuildRequires:  maven-source-plugin
 BuildRequires:  maven-enforcer-api
 BuildRequires:  maven-surefire-provider-junit4
 BuildRequires:  jetty-toolchain
-BuildRequires:  junit4
+BuildRequires:  junit
 
 Requires:       maven
 Requires:       maven-project
