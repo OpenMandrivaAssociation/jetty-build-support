@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           jetty-build-support
 Version:        1.1
-Release:        8.2
+Release:        8.3
 Summary:        Jetty build support files
 
 
