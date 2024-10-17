@@ -9,7 +9,7 @@ Summary:        Jetty build support files
 # https://bugs.eclipse.org/bugs/show_bug.cgi?id=362646
 # - commit stating the license is already there
 License:        ASL 2.0 or EPL
-URL:            http://www.eclipse.org/jetty/
+URL:            https://www.eclipse.org/jetty/
 Source0:        http://git.eclipse.org/c/jetty/org.eclipse.jetty.toolchain.git/snapshot/%{name}-%{version}.tar.bz2
 # rpmlint config file (fedpkg lint will use this)
 #Source1:        .rpmlint
